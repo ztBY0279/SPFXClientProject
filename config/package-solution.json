@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "share-point-client-spfx-project-client-side-solution",
+    "id": "ff4e932f-0238-4bfe-9882-94f36379c083",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "share-point-client-spfx-project description"
+      },
+      "longDescription": {
+        "default": "share-point-client-spfx-project description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "share-point-client-spfx-project Feature",
+        "description": "The feature that activates elements of the share-point-client-spfx-project solution.",
+        "id": "6d2e23b6-b3d3-4443-818c-3e2c28ff188e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/share-point-client-spfx-project.sppkg"
+  }
+}
